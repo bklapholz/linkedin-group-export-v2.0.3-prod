@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "Exportation de groupe pour LinkedIn™️(e-mail)",
+    "description": ""
+  },
+  "extDescription": {
+    "message": "Extraire les groupes LinkedIn et extraire leurs membres avec l'e-mail au format CSV / Excel.",
+    "description": ""
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "Group Export for LinkedIn™️(Email)",
+    "description": ""
+  },
+  "extDescription": {
+    "message": "Scrape LinkedIn groups and extract their members with email to CSV / Excel.",
+    "description": ""
+  }
+}
