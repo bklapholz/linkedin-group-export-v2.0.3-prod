@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "Exportation de publications pour LinkedIn™️",
+    "description": ""
+  },
+  "extDescription": {
+    "message": "Extraire les publications et les flux du profil utilisateur et de la page d'entreprise sur LinkedIn dans un fichier CSV.",
+    "description": ""
+  }
+}

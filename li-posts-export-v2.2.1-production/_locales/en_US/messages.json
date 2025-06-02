@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "Posts Export for LinkedIn™️",
+    "description": ""
+  },
+  "extDescription": {
+    "message": "Extract posts and feeds of user profile, groups and company page on LinkedIn into CSV file.",
+    "description": ""
+  }
+}
